@@ -1,0 +1,28 @@
+div {
+    border:1px #ccc solid;
+}
+
+.firstRow, .fourthRow {
+    padding:4%;
+}
+
+.secondRow {
+    padding:6%;
+    display:flex;
+}
+
+.thirdRow{
+    display:flex;
+}
+
+.thirdRow div {
+    padding:8%;
+}
+
+.box3-1 {
+    flex-basis:33%;
+}
+
+.box3-2 {
+    flex-basis:66%;
+}
