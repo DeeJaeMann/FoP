@@ -1,0 +1,21 @@
+div {
+    border:1px #ccc solid;
+}
+
+.firstRow, .thirdRow {
+    padding:4%;
+}
+
+.secondRow {
+    display:flex;
+}
+
+.box2-1, .box2-3, .box2-4 {
+    flex-basis:20%;
+    /*padding:10%;*/
+}
+
+.box2-2 {
+    flex-basis:20%;
+    padding:15%;
+}
