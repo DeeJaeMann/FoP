@@ -1,0 +1,37 @@
+div {
+    border:1px #ccc solid;
+    /* justify-content:center; */
+    /* justify-content:space-around; */
+}
+
+.firstRow, .fourthRow {
+    padding:5%;
+    /* align-items:center; */
+    /* justify-content:center; */
+}
+
+.secondRow {
+    /* padding:15%; */
+    display:flex;
+}
+
+.thirdRow {
+    display:flex;
+}
+
+.secondRow div{
+    flex-basis:33%;
+    padding:15%;
+}
+
+.thirdRow div{
+    padding:20%;
+    flex-basis:50%;
+}
+
+p {
+    /* align-items:center; */
+    margin:0;
+    padding:0;
+    justify-content:space-around;
+}
