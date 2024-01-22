@@ -68,3 +68,38 @@
 # my_list_one += my_list_two
 # print(my_list_one)
 
+# Comparison Operators
+
+# num_1 == num_2
+# num_1 != num_2
+# num_1 > num_2
+# num_1 < num_2
+# num_1 >= num_2
+# num_1 <= num_2
+# abs(num_1 - num_2) < 0.00001
+
+# Chaining comparison operators
+
+# x == 2 or y == 2 or z == 3
+# 2 < x and x > 7
+# 2 < x < 7
+# or, and, not
+
+# Data flow and if statements
+
+# num = 12
+
+# if(num%2 == 0) :
+#     print("Num is even")
+# else:
+#     print("Num is odd")
+
+# and elif() :
+
+# While Loops
+
+total_score = 0
+
+while(total_score <= 100) :
+    print(total_score)
+    total_score += 1
