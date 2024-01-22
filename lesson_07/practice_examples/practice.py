@@ -137,3 +137,18 @@
 # for str_animal in list_animal :
 #     for char in str_animal :
 #         print(char)
+
+# Functions
+
+# def sum(num1, num2 = 2) :
+#     return num1 + num2
+
+# print(sum(1,2))
+
+# Doc strings
+
+# def func(num1) :
+#     """
+#     This is a doc string also uses '''
+#     """
+#     pass
