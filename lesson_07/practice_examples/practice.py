@@ -37,15 +37,34 @@
 
 # Math and ABS
 
-my_sum = 3 + 4
-difference = 3-4
-product = 3 * 4
-quotient = 3 / 4
-quotient_two = 3 // 4
-abs_value = abs(-5)
-print(my_sum)
-print(difference)
-print(product)
-print(quotient)
-print(quotient_two)
-print(abs_value)
+# my_sum = 3 + 4
+# difference = 3-4
+# product = 3 * 4
+# quotient = 3 / 4
+# quotient_two = 3 // 4
+# abs_value = abs(-5)
+# print(my_sum)
+# print(difference)
+# print(product)
+# print(quotient)
+# print(quotient_two)
+# print(abs_value)
+
+# Floor and Modulus
+
+# floor = 5 // 2
+# modulus = 4 % 3
+# print(floor)
+# print(modulus)
+
+# Exponent and concatinate
+
+# power_of_two = 3 ** 2
+# my_list_one = [1, 2, 3]
+# my_list_two = [4, 5, 6]
+
+# print(power_of_two)
+# print(my_list_one + my_list_two)
+# my_list_one += my_list_two
+# print(my_list_one)
+
