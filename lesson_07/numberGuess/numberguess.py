@@ -13,7 +13,7 @@ int_my_guess = -1
 while(int_my_guess != int_target) :
     int_my_guess = int(input("Enter your guess from 1 to 100: "))
     int_guesses += 1
-    if(0 < int_my_guess < 100) :
+    if(0 < int_my_guess < 101) :
         # Number is within the range
         if(int_my_guess > int_target) :
             print("Too high - try again!")
