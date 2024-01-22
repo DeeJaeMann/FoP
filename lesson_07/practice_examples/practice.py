@@ -98,8 +98,42 @@
 
 # While Loops
 
-total_score = 0
+# total_score = 0
 
-while(total_score <= 100) :
-    print(total_score)
-    total_score += 1
+# while(total_score <= 100) :
+#     print(total_score)
+#     total_score += 1
+
+# total_score = 0
+
+# while(total_score <= 100) :
+#     total_score += int(input("Enter your score for this round: "))
+#     print("Total so far: ", total_score)
+
+# For Loops
+
+# list_colors = ['red', 'white', 'blue', 'black', 'purple']
+
+# for str_color in list_colors :
+#     print(str_color)
+
+# Index first, list item next
+# for int_index, str_color in enumerate(list_colors) :
+#     print(int_index)
+#     print(str_color)
+
+# for int_index in range(len(list_colors)) :
+#     print(int_index)
+
+# break and continue in loops
+
+# break exits loop
+# continue skips to next iteration of loop
+
+# Nested loops
+
+# list_animal = ['dog', 'cat', 'tiger']
+
+# for str_animal in list_animal :
+#     for char in str_animal :
+#         print(char)
